@@ -1,17 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom";
+
+import App from "./App"; // one dot because same folder, importing components
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+  <App /> /* The naming convention is using the self closing tag App / */,
+  document.getElementById("root")
+); // Using .render function to display Hello World on root div ID, There should be one open and closing tag around 2 open and closing tags
