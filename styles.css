@@ -1,0 +1,238 @@
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Quicksand", sans-serif;
+}
+
+.header {
+  padding-top: 10px;
+  position: "absolute";
+  width: 100%;
+}
+
+.top {
+  display: flex;
+}
+
+.location {
+  padding-left: 10px;
+}
+
+.locationIcon {
+  height: 20px;
+  margin-bottom: -5px;
+}
+
+.customerService {
+  margin-left: 10px;
+}
+
+.customerServiceIcon {
+  height: 20px;
+  margin-bottom: -5px;
+}
+
+.center {
+  flex: auto;
+}
+
+.searchButtonIcon {
+  padding-right: 10px;
+  height: 24px;
+}
+
+.companyName {
+  font-family: "Poiret One", cursive;
+  width: 100%;
+  text-align: center;
+}
+
+.companyName h1 {
+  margin: 0;
+}
+
+.navBar {
+  position: sticky;
+  z-index: 100;
+  top: 0;
+  margin-top: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  margin-top: -1px;
+}
+
+.navBar ul {
+  list-style-type: none;
+  padding-left: 0px;
+  text-align: center;
+}
+
+.navBar ul > li {
+  display: inline-block;
+  font-weight: 700;
+  padding: 10px 20px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.navBar ul > li:hover {
+  color: rgba(0, 0, 0, 0.557);
+}
+
+.ddc {
+  display: inline-block;
+  background-color: red;
+}
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.imageBoxOne {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.imageBoxOneOuter {
+  background-color: black;
+}
+
+.imageBoxOneContainer {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.image1 {
+  filter: brightness(70%);
+  z-index: 0;
+  display: block;
+  max-height: 525px;
+  width: auto;
+}
+
+.centered {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+  font-weight: 550;
+}
+
+.centered1 {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  font-weight: 550;
+}
+
+.centered2 {
+  display: flex;
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  font-weight: 550;
+}
+
+.for {
+  height: 40px;
+  padding: 1px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 17px;
+  margin: 10px;
+  background-color: rgba(0, 0, 255, 0);
+  color: white;
+  border: none;
+  border-bottom: 2px solid white;
+  transition-duration: 2s;
+}
+
+button:hover {
+  background-color: rgba(255, 255, 255, 0.605);
+  border-bottom: 2px solid rgba(255, 255, 255, 0.605);
+  color: black;
+}
+
+.imageBoxTwo {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.imageBoxTwoContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.image2 {
+  width: 20%;
+  margin: 5px;
+  filter: brightness(70%);
+  z-index: -1;
+}
+
+.imageBoxThree {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.imageBoxThreeContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.image3 {
+  width: 61.3%;
+  z-index: -1;
+  filter: brightness(70%);
+}
+
+.imageBoxFour {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.imageBoxFourContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.footer {
+  padding: 25px 50px;
+  height: 100%;
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.finalCName {
+  font-size: 30px;
+  font-family: "Poiret One", cursive;
+}
+
+.lower {
+  display: flex;
+  margin-top: 30px;
+}
+
+.lowerbox {
+  flex: auto;
+}
+
+.copyright {
+  margin-top: 30px;
+}

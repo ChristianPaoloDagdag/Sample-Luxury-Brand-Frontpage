@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/Sample-Luxury-Brand-Frontpage/static/js/main.34feae09.chunk.js",
+    "main.js.map": "/Sample-Luxury-Brand-Frontpage/static/js/main.34feae09.chunk.js.map",
+    "runtime-main.js": "/Sample-Luxury-Brand-Frontpage/static/js/runtime-main.49229825.js",
+    "runtime-main.js.map": "/Sample-Luxury-Brand-Frontpage/static/js/runtime-main.49229825.js.map",
+    "static/js/2.b0f3d34f.chunk.js": "/Sample-Luxury-Brand-Frontpage/static/js/2.b0f3d34f.chunk.js",
+    "static/js/2.b0f3d34f.chunk.js.map": "/Sample-Luxury-Brand-Frontpage/static/js/2.b0f3d34f.chunk.js.map",
+    "index.html": "/Sample-Luxury-Brand-Frontpage/index.html",
+    "static/js/2.b0f3d34f.chunk.js.LICENSE.txt": "/Sample-Luxury-Brand-Frontpage/static/js/2.b0f3d34f.chunk.js.LICENSE.txt",
+    "static/media/colorful.4b22d250.jpg": "/Sample-Luxury-Brand-Frontpage/static/media/colorful.4b22d250.jpg",
+    "static/media/gif1.f4799ab8.gif": "/Sample-Luxury-Brand-Frontpage/static/media/gif1.f4799ab8.gif",
+    "static/media/img2.57e5dd7b.jpg": "/Sample-Luxury-Brand-Frontpage/static/media/img2.57e5dd7b.jpg",
+    "static/media/img3.e53c6a6a.jpg": "/Sample-Luxury-Brand-Frontpage/static/media/img3.e53c6a6a.jpg",
+    "static/media/img4.8e2a8d9c.jpg": "/Sample-Luxury-Brand-Frontpage/static/media/img4.8e2a8d9c.jpg",
+    "static/media/yellow1.05ef2496.jpg": "/Sample-Luxury-Brand-Frontpage/static/media/yellow1.05ef2496.jpg",
+    "static/media/yellow2.7cfb1bd5.jpg": "/Sample-Luxury-Brand-Frontpage/static/media/yellow2.7cfb1bd5.jpg",
+    "static/media/yellow3.a8cccaa5.jpg": "/Sample-Luxury-Brand-Frontpage/static/media/yellow3.a8cccaa5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49229825.js",
+    "static/js/2.b0f3d34f.chunk.js",
+    "static/js/main.34feae09.chunk.js"
+  ]
+}
