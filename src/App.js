@@ -16,7 +16,7 @@ function App() {
             <HomePage />
           </Route>
 
-          <Route path="/newArrivals">
+          <Route exact path="/newArrivals">
             <NewArrivals/>
           </Route>
 
